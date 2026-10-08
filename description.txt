@@ -1,0 +1,1 @@
+Non-invasive energy monitor is an ESP32 learning project using SCT-013 current transformer; rated burden resistor; 1. 65 V ADC bias network. It measures AC current proxy and publishes validated telemetry over Wi-Fi and TLS MQTT for energy monitoring learners. Includes security, calibration, sensor checks, provisioning, safety notes, field guidance.
